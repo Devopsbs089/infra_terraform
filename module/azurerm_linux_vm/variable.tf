@@ -1,0 +1,19 @@
+variable "nic_name" {}
+variable "location" {}
+variable "rg_name" {}
+variable "nic_name" {}
+variable "vm1_name" {}
+variable "username" {}
+variable "size" {}
+variable "admin_username" {}
+variable "admin_password" {}
+variable "ip_config_name" {}
+variable "os_disk_storage_account_type"{}
+ variable "os_image_publisher" {}
+ variable "os_image_offer" {}
+ variable "os_image_sku" {}
+ variable "pip_name" {}
+variable "keyvault_name" {}
+variable "keyvault_name" {}
+variable "subnet_name" {}
+variable "vnet_name" {}
